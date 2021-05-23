@@ -1,0 +1,50 @@
+.divVuelos {
+  float: 'left'; 
+  width: 'auto'; 
+  max-width: '70%'; 
+  margin: '20px';
+}
+
+.Vuelos {
+  float: left;
+  margin: 10px;
+  border: solid 1px black;
+  max-width: 300px;
+}
+
+.leaflet-container {
+  margin: 20px;
+  width: 70%;
+  height: 75vh;
+  float:left;
+}
+
+.divChat {
+  width: auto;
+  max-width: 20%;
+  float: right;
+  margin-left: 10px;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+
+.chat {
+  width: 100%;
+  min-height: 70vh;
+  max-height: 70vh;
+  overflow: scroll;
+  float: right;
+  border: 1px solid black;
+}
+.formChat {
+  margin-top: 5px;
+  width: 100%;
+  float: right;
+  border: 1px solid black;
+}
+
+.formChat textarea {
+  width: 80%;
+  height: 10vh;
+  margin: 2px;
+}
